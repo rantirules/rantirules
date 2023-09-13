@@ -14,7 +14,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,docker,go,java,jest,kotlin,mongodb,nodejs,py,swift,tensorflow,unity,vite,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,docker,go,java,jest,kotlin,mongodb,nodejs,py,swift,tensorflow,unity,vite,sql)](#)
 
 <!--
 **rantirules/rantirules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
