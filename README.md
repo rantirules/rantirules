@@ -1,4 +1,4 @@
-### Hi there, I'm Ranti  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
+## Hi there, I'm Ranti!  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="25"/>
 
 ### 🖥️ Languages and Tools:
 
