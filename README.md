@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,docker,go,java,jest,kotlin,mongodb,nodejs,py,swift,tensorflow,unity,vite,sql)](#)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rantirules&hide_progress=true&theme=transparent&hide=processing)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rantirules&hide_progress=true&theme=transparent&hide=processing&hide_border=true)
 
 
 <!--
